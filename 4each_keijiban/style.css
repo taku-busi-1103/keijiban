@@ -1,0 +1,109 @@
+.blog{
+  width: 300px; 
+}
+
+header{
+  width: 100%;
+  height: 40px;
+  background-color: black;
+}
+  
+
+header ul{
+  list-style: none;
+  line-height:40px;
+}
+
+header ul li{
+  float: left;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 15px;
+  color: white;
+}
+
+main{
+  clear: both;
+}
+
+.main-container{
+  width: 95%;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+
+.lefty{
+  float: left;
+  width:70%;
+  margin-bottom: 40px;
+}  
+
+h1{
+  border-bottom: 2px solid gray;
+  border-left: 4px solid black;
+}
+
+.nyuuryoku_form{
+  border-left: 2px solid red;
+  margin-left: 10px;
+}
+
+form{margin: 0 auto;
+  background-color:#fbfbfb;
+  border:3px #ebebeb solid;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.kiji{margin: 0 auto;
+  background-color:#fbfbfb;
+  border:3px #ebebeb solid;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.kiji h2{
+  border-bottom: solid;
+  border-color: #ebebeb;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.contents{
+  margin: 5px;
+  padding-bottom: 5px;
+}
+
+.handlename{
+  font-size:12px;
+}
+
+.righty{
+  float: left;
+  width:30%;
+  margin-bottom: 40px;
+}
+
+.righty ul{
+  list-style-type: none;
+  line-height: 50px;
+  margin-top: -10px;
+  margin-left: 30px;  
+}
+
+h3{
+  border-bottom: dotted;
+  border-color: gray;
+  margin-left: 30px;
+
+}
+
+footer{
+  clear: both;
+  bottom: 0px;
+  width: 100%;
+  font-size: 10px;   
+  background-color: black;
+  color: white;
+  text-align: center;
+}
